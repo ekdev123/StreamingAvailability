@@ -1,6 +1,10 @@
 # StreamingAvailability
 The Streaming viewer accepts a Movie Title like "Jaws" and the country code "US" to search via an API I was able to obtain from Rapid API 
+
+
 ![Screenshot 2023-08-04 at 7 49 52 PM](https://github.com/ekdev123/StreamingAvailability/assets/114179084/4b1a7036-0388-4d1c-a9a2-180b142e949e)
+
+
 
 
 
