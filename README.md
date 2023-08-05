@@ -6,6 +6,6 @@ This project is personally useful for me because I want to know what streaming s
 
 I was able to get started with this project by obtaining the API from Rapid API https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability
 I also consulted documentation regarding OkHTTP, the HTPP client I used.
-I'm currently the only one who maintains and contributes to this project. In the future I have plans to add a UI which I think will make it more appealing to a wider audience.
+I'm currently the only one who maintains and contributes to this project. In the future I have plans to add a UI which I think will make it easier to read. 
 
 
